@@ -7,5 +7,7 @@ public class Main {
 
 		TicTacToeGame game = new TicTacToeGame();
 		game.createBoard();
+		game.getPlayerInput();
+		
 	}
 }
